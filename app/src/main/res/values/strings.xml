@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">JoshTalksFlickr</string>
+    <string name="search_title">Search</string>
+    <string name="search_hint">Search photos by tag</string>
+    <string name="demo_string">Hello World !</string>
+    <string name="main_body">Hi! This is the app that lets you browse pics on Flickr.\n\nGo ahead, enter the keyword using the top right search option.</string>
+
+    <string name="title_activity_full_photo">FullPhotoActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
