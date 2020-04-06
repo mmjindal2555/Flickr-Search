@@ -64,3 +64,7 @@ class PhotoAdapter(val context: Context, var photos: List<Photo>):
 // 1
 
 // 2
+
+// 3
+
+// 4
