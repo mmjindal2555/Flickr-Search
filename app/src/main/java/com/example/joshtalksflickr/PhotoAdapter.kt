@@ -70,5 +70,3 @@ class PhotoAdapter(val context: Context, var photos: List<Photo>):
 // change to squash 11
 
 // change 11
-
-// change 12
