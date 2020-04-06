@@ -71,3 +71,5 @@ class PhotoAdapter(val context: Context, var photos: List<Photo>):
 
 //5
 // 6
+
+//7
