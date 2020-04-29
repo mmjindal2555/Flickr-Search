@@ -1,0 +1,3 @@
+[submodule "demolib"]
+	path = demolib
+	url = https://github.com/mmjindal2555/demolib
