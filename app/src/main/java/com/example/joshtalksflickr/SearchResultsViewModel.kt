@@ -2,9 +2,7 @@ package com.example.joshtalksflickr
 
 import androidx.lifecycle.MutableLiveData
 import androidx.lifecycle.ViewModel
-import androidx.paging.ItemKeyedDataSource
-import androidx.paging.PagedList
-import com.example.joshtalksflickr.api.Photo
+import com.example.demolib.api.Photo
 
 
 class SearchResultsViewModel: ViewModel() {

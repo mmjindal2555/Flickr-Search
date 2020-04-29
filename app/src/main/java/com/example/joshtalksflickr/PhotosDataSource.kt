@@ -2,16 +2,13 @@ package com.example.joshtalksflickr
 
 import android.app.SearchManager.QUERY
 import androidx.annotation.NonNull
-import androidx.lifecycle.MutableLiveData
 import androidx.paging.PageKeyedDataSource
-import com.example.joshtalksflickr.api.Photo
-import com.example.joshtalksflickr.api.Photos
-import com.example.joshtalksflickr.api.SearchResult
-import com.example.joshtalksflickr.api.getApis
-import kotlinx.android.synthetic.main.activity_search_results.*
+import com.example.demolib.api.Photo
+import com.example.demolib.api.Photos
+import com.example.demolib.api.SearchResult
+import com.example.demolib.api.getApis
 import retrofit2.Call
 import retrofit2.Response
-import javax.security.auth.callback.Callback
 
 
 class PhotoDataSource : PageKeyedDataSource<Long, Photo?>() {

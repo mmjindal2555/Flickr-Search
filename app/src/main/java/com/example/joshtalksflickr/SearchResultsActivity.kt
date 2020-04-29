@@ -7,12 +7,10 @@ import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.recyclerview.widget.GridLayoutManager
 import androidx.recyclerview.widget.RecyclerView
-import com.example.joshtalksflickr.api.Photo
-import com.example.joshtalksflickr.api.SearchResult
-import com.example.joshtalksflickr.api.getApis
+import com.example.demolib.api.Photo
+import com.example.demolib.api.SearchResult
+import com.example.demolib.api.getApis
 import kotlinx.android.synthetic.main.activity_search_results.*
-import kotlinx.coroutines.GlobalScope
-import kotlinx.coroutines.launch
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response

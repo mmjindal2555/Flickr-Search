@@ -1,15 +1,11 @@
 package com.example.joshtalksflickr
 
 import android.content.Context
-import android.content.Intent
-import android.os.Parcel
-import android.os.Parcelable
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.BaseAdapter
 import androidx.recyclerview.widget.RecyclerView
-import com.example.joshtalksflickr.api.Photo
+import com.example.demolib.api.Photo
 import com.squareup.picasso.Picasso
 import kotlinx.android.synthetic.main.item_photo.view.*
 
